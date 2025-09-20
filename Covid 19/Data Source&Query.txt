@@ -1,0 +1,21 @@
+Covid 19 Data Analysis using Pandas :-
+
+Download Data:-
+https://www.kaggle.com/anandhuh/latest-covid19-india-statewise-data
+
+1. Print First And Last 10 Values From The Dataframe?
+2. How many Rows & Columns in Dataframe?
+3. Display Data Types Of Each Column?
+4. Find Out The State Which Has Minimum Total Cases?
+5. Find Out The State Which Has Maximum Total Cases?
+6. Display All States Of India From DataFrame?
+7. Display All The Data Of States Having Deaths Greater Than 10000?
+8. Count The Total Cases Of India?
+9. What is the Death Ratio Of Maharashtra?
+10. Which State Has Minimum Death Ratio?
+11. Find Out The Discharged Patients From The States Maharashtra,Karnataka,MP,Gujrat?
+12. Find Out The States Having Total Cases between 1 lac to 5 lac?
+13. Display All The Data Of The States Which Has Active Cases Less Than 1000?
+14. Make A Separate CSV File Of Data Of The States Which Has Active Cases Less Than 1000?
+15. Total Number Of Deaths In India?
+16. Top 10 highest Population States in India?
