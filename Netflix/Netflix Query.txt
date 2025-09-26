@@ -1,0 +1,34 @@
+Netflix Dataset Analysis using Pandas :-
+
+This Netflix Dataset has information about the TV Shows 
+and Movies available on Netflix till 2021.
+
+This dataset is collected from Flixable which is a third-party 
+Netflix search engine, and available on Kaggle website for free.
+
+
+Q1. To show top-5 records of the dataset?
+Q2. To show bottom-5 records of dataset?
+Q3. To show the No. of Rows and Columns?
+Q4. To show each Column Name?
+Q5. To show the data-type of each column?
+Q6. To show indexes, columns, data-types of each column, memory at once?
+Q7. Is there any Duplicate Record in this dataset ? If yes, then remove the duplicate records.
+Q8. Is there any Null Value present in any column ?
+Q9. For 'House of Cards', what is the Show Id and Who is the Director of this show ?
+Q10.In which year highest number of the TV Shows & Movies were released ? Show with Bar Graph.
+Q11. How many Movies & TV Shows are in the dataset ? Show with Bar Graph.
+Q12. Show all the Movies that were released in year 2000?
+Q13. Show only the Titles of all TV Shows that were released in India only?
+Q14. Show Top 10 Directors, who gave the highest number of TV Shows & Movies to Netflix ?
+Q15.  Show all the Records, where "Category is Movie and Type is Comedies" or "Country is 
+          United Kingdom" ?
+Q16. In how many movies/shows, Tom Cruise was cast ?
+Q17. What are the different Ratings defined by Netflix ?
+Q18. How many Movies got the 'TV-14' rating, in Canada ?
+Q19. How many TV Show got the 'R' rating, after year 2018 ?
+Q20. What is the maximum duration of a Movie/Show on Netflix ?
+Q21. Which individual country has the Highest No. of TV Shows ?
+Q22. How can we sort the dataset by Year ?
+Q23. Find all the instances where : Category is 'Movie' and Type is 'Dramas' 
+         or  Category is 'TV Show' & Type is 'Kids' TV' ?
