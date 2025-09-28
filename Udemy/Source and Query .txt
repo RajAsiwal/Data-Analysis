@@ -1,0 +1,26 @@
+Working on Real-Time Analysis Project on 'Udemy Courses Dataset':-
+
+https://www.kaggle.com/datasets/andrewmvd/udemy-courses/data
+
+1. Display Top 10 Rows of The Dataset?
+2. Check Last 5 Rows of The Dataset?
+3. Find Shape of Our Dataset (Number of Rows And Number of Columns)?
+4. Getting Information About Our Dataset Like Total Number Rows, Total Number of Columns, Datatypes of Each Column And Memory Requirement?
+5. Check Null Values In The Dataset?
+6. Check For Duplicate Data and Drop Them?
+7. What are all different subjects for which Udemy is offering courses ?
+8. Find Out Number of Courses Per Subjects?
+9.Show all the courses which are Free of Cost?
+10.Show all the courses which are Paid?
+11. Display The Count of Paid and Free Courses?
+12. For Which Levels, Udemy Courses Providing The Courses?
+13.Which are Top Selling Courses ?
+14.Which are Least Selling Courses ?
+15.Show all courses of Graphic Design where the price is below 100 ?
+16. Find Most Popular Course Title?
+17. Display 10 Most Popular Courses As Per Number of Subscribers?
+18. Find Total Number of Courses Related To Python?
+19. Display 10 Most Popular Python Courses As Per Number of Subscribers?
+20.What are courses that published in year 2015 ?
+21. Display Category-Wise Count of Posted Subjects [Year Wise] ?
+22.What are the Max. Number of Subscribers for Each Level of courses ?
